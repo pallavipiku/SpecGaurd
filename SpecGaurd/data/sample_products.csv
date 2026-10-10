@@ -1,0 +1,7 @@
+product_id,product_name,category,brand,price,weight_kg,ram_gb,storage_gb,battery_ah,processor,description
+P1001,Acer Aspire 5,laptop,Acer,28990,1.7,16,512,55,Intel i5,"Lightweight laptop for work, study, and travel."
+P1002,Dell Inspiron 15,laptop,Dell,31999,2.1,16,512,46,Intel i5,"Balanced laptop for coding and productivity."
+P1003,Lenovo IdeaPad Slim 3,laptop,Lenovo,24999,1.5,8,256,50,Intel i3,"Affordable and portable laptop for everyday use."
+P1004,HP Pavilion Aero,laptop,HP,34990,0.98,16,512,66,AMD Ryzen 5,"Ultra-lightweight premium laptop with strong battery life."
+P1005,Asus VivoBook 15,laptop,Asus,26600,1.8,12,512,45,Intel i5,"Good battery and solid everyday performance."
+P1006,MSI Modern 14,laptop,MSI,34499,1.4,16,512,52,Intel i7,"Compact laptop with strong performance and good portability."
